@@ -15,4 +15,5 @@ DS18B20 (Температурный датчик)
 
 Схема подключения:
 
-![d1_mini_ds18b20](https://user-images.githubusercontent.com/43350621/197290107-970bfb14-59d4-4ff7-9b1d-fd7be83298d5.png)
+![d1_mini_ds18b20](https://user-images.githubusercontent.com/43350621/197290818-4a3e17dd-924c-471e-a169-75e8b8e4efdf.png)
+
